@@ -1,6 +1,6 @@
 Hi. I'm Paul. I consult for **Peloton** through [Thoughtworks](https://www.thoughtworks.com/). This is my client GitHub profile.
 
-### **The Technical Rundown**
+### The Technical Rundown
 
 - **Day-to-day stack:** **C#** and **TypeScript**.
 - **Languages I enjoy:** **Rust**, **Zig**, **Gleam**, and **OCaml** (plus **F#** when working within the .NET ecosystem).
